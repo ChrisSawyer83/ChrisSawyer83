@@ -1,0 +1,5 @@
+- Hi, I’m Chris Sawyer @ChrisSawyer83
+- I’m interested in blockchain development and, specifically, blockchain projects in the healthcare space.
+- I’m currently learning Solidity smart contract back-end development.
+- I’m looking to collaborate on open projects of all kinds in order to gain experience.
+- The best way to reach me is here on GitHub.
